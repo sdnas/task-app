@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\TaskController;
 use function FastRoute\simpleDispatcher;
 
 require '../vendor/autoload.php';
